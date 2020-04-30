@@ -1,2 +1,2 @@
-# java
-Collection of Java programs and projects.
+# Java
+Collection programs and projects in the Java programming language.
